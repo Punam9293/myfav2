@@ -1,0 +1,26 @@
+body{
+background: linear-gradient(#eb4646 0%, #f7f24d 100%);
+}
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 10px;
+    z-index: 10;
+    cursor: pointer;
+    padding-left: 300px}
+
+.links {
+    float: left;
+    color: dodgerblue;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 25px;
+}
+
+.links:hover {
+    background-color: blue
+}
